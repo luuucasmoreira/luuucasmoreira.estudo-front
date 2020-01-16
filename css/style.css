@@ -1,0 +1,75 @@
+#topo{
+    max-width: 1000px;
+    height: 352px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid rgb(255, 255, 255); 
+    background-image: url("../img/section-header/bg.png");
+    
+}
+#imgIphone{
+    max-width: 130px;
+    height: 160px;
+    align-self: center;
+    position: absolute;
+    left: 22%;
+    bottom: 42%;
+}
+#logoWith{
+    width: 60px;
+    height: 60px;
+    align-self: center;
+    position: absolute;
+    left: 18%;
+    top: 1%;
+
+}
+#titleTopo{
+    width: 200px;
+    height: 45px;
+    align-self: center;
+    position: absolute;
+    right: 18%;
+    top: 15%;
+}
+#iconHamburger{
+    width: 20px;
+    height: 20px;
+    align-self: center;
+    position: absolute;
+    right: 18%;
+    top: 4%;
+}
+
+#meio{
+    border: 3px solid rgb(217, 241, 0);
+    max-width: 1000px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#corpo{
+    border: 3px solid rgb(46, 196, 201);
+    max-width: 1000px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#donate{
+    max-width: 1000px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid rgb(59, 33, 173);
+    background-image: url(../img/bg-donate.png);
+}
+
+#rodape{
+    max-width: 1000px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid rgb(173, 33, 33);
+}
