@@ -1,9 +1,14 @@
+.div{
+    flex-direction: column;
+}
+
 #topo{
     max-width: 1000px;
     height: 352px;
     margin-right: auto;
     margin-left: auto;
-    border: 3px solid rgb(255, 255, 255); 
+    border-left: 2px solid rgb(255, 255, 255); 
+    border-right: 2px solid rgb(255, 255, 255);
     background-image: url("../img/section-header/bg.png");
     
 }
@@ -43,19 +48,39 @@
 }
 
 #meio{
-    border: 3px solid rgb(217, 241, 0);
     max-width: 1000px;
-    height: 100px;
+    height: 352px;
     margin-right: auto;
     margin-left: auto;
+    border-left: 3px solid rgb(255, 255, 255); 
+    border-right: 3px solid rgb(255, 255, 255); 
+    background-color: rgb(220, 220, 220);
+}
+
+#imgTablet {
+    width: 200px;
+    height: 270px;
+    position: relative;
+    left: 80%;
+    top: 82px;
 }
 
 #corpo{
-    border: 3px solid rgb(46, 196, 201);
     max-width: 1000px;
-    height: 100px;
+    height: 352px;
     margin-right: auto;
     margin-left: auto;
+    border-left: 3px solid rgb(255, 255, 255); 
+    border-right: 3px solid rgb(255, 255, 255); 
+    background-color: rgb(255, 255, 255);
+}
+
+#imgPortfolio{
+    width: 500px;
+    height: 250px;
+    position: relative;
+    left: 0px;
+    top: 102px;
 }
 
 #donate{
