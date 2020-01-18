@@ -8,37 +8,38 @@
     
 }
 #imgIphone{
-    max-width: 130px;
+    width: 130px;
     height: 160px;
-    align-self: center;
-    position: absolute;
+    float: center;
+    position: relative;
     left: 22%;
-    bottom: 42%;
+    top: 54%;
+    
 }
 #logoWith{
-    width: 60px;
-    height: 60px;
+    width: 65px;
+    height: 65px;
     align-self: center;
-    position: absolute;
-    left: 18%;
-    top: 1%;
+    position: relative;
+    left: 5%;
+    bottom: 27%;
 
 }
 #titleTopo{
     width: 200px;
     height: 45px;
     align-self: center;
-    position: absolute;
-    right: 18%;
-    top: 15%;
+    position: relative;
+    left: 40%;
+    bottom: 5%;
 }
 #iconHamburger{
     width: 20px;
     height: 20px;
     align-self: center;
-    position: absolute;
-    right: 18%;
-    top: 4%;
+    position: relative;
+    left:  35%;
+    bottom: 37%;
 }
 
 #meio{
